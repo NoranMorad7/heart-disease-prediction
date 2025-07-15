@@ -12,3 +12,6 @@ Heart disease is a leading cause of death globally, and early prediction can sav
 - `classification.py`: Code for classifying heart disease using MLDCNN.
 - `aehom_optimization.py`: Implements AEHOM optimization for hyperparameter tuning.
 - `Main.py`: Integrates all components for a streamlined execution pipeline.
+
+##  Academic Materials
+https://drive.google.com/file/d/1C6T95ZfIbodXEpsVWY1FWqEp8LavKYF_/view?usp=sharing
